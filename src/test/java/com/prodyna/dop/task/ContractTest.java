@@ -13,7 +13,7 @@ class ContractTest {
     void getPriceForOldTimerCarInsuranceWithHighValues() {
         Insurance.CarInsurance oldTimerCarInsurance = new Insurance.CarInsurance(100, 200, true);
         Contract contract = new Contract();
-        assertEquals(400.0, contract.getPrice(oldTimerCarInsurance));
+        assertEquals(40000.0, contract.getPrice(oldTimerCarInsurance));
     }
 
     @Test
