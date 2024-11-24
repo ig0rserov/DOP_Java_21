@@ -1,6 +1,6 @@
 package com.prodyna.dop.task;
 
-import com.prodyna.dop.insurance.Insurance;
+import com.prodyna.dop.task.Insurance;
 
 public class Contract {
 
