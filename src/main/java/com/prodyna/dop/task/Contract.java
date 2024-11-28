@@ -11,7 +11,7 @@ public class Contract {
     private static final double DEFAULT_PERSON_INSURANCE_MULTIPLIER = 1.0;
     private static final double YOUNG_PERSON_INSURANCE_MULTIPLIER = 0.9;
 
-
+    //https://inside.java/2024/06/05/dop-v1-1-separate-operations/
     //TODO implement me using Pattern Matching: Record Patterns, Unnamed Patterns and Guarded Patterns
     /**
      * Calculates the price of the given insurance based on its type and attributes.
